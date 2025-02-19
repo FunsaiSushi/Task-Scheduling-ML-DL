@@ -9,18 +9,6 @@ This project implements and compares several deep learning models to predict the
 - **BiLSTM (Bidirectional LSTM)**
 - **GRU (Gated Recurrent Unit)**
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Setup](#setup)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Building](#model-building)
-- [Training the Models](#training-the-models)
-- [Performance Metrics](#performance-metrics)
-- [Visualization](#visualization)
-- [Results](#results)
-- [License](#license)
-
 ## Project Overview
 
 The main objective of this project is to predict the `final_delay` using the input features `calculated_input_delay` and `calculated_output_delay`. The dataset is preprocessed, normalized, and split into training and testing sets before feeding it into the deep learning models.
